@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💍 मेरी शादी का इनविटेशन 💍</title>
+    <style>
+        body {
+            background-color: rgb(134, 60, 72);
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>💐 शादी का न्योता 💐</h1>
+
+    <img src="images/god.jpg" alt="भगवान जी" width="300">
+    
+    <h2>📅 शादी की तारीख:</h2>
+    <p>रविवार, 10 मई 2025</p>
+
+    <h2>📍 स्थान:</h2>
+    <p>श्री लक्ष्मी नारायण मंदिर, दिल्ली</p>
+
+    <h2>📞 संपर्क करें:</h2>
+    <p><a href="tel:+919876543210">+91 9876543210</a></p>
+
+    <audio controls autoplay loop>
+        <source src="shehnai.mp3" type="audio/mpeg">
+    </audio>
+
+</body>
+</html># Auto detect text files and perform LF normalization
 * text=auto
